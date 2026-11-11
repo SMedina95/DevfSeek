@@ -2,11 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Estilos globales */
 body {
   margin: 0;
   padding: 0;
-  background-color: #343541; /* Fondo oscuro tipo ChatGPT */
+  background-color: #111827; /* Fondo oscuro tipo ChatGPT */
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
